@@ -280,7 +280,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Hammering(repetition)
     * Your goal should overlap with their goal
     * Sell an emotion
-## Public speaking tips(not a book):
+## Public speaking tips (not a book):
     * Varoius methods can be used for public speaking, use a suitable one
     * Start your speech, marketing campaign, etc with "why?" and then move on to "how?" and then "what?"
     * To grab attention, you can start your speech with a question, a story, both or an activity. For people to easily follow you speech, number your points. Conclude with "Thank you", call to action and moral 
