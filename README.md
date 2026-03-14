@@ -1,6 +1,6 @@
 # 📚 B.O.B — Book of Books
 
-> *Distilling the Book of Books(Liber Librorum): Where psychology and biology meet tech entrepreneurship.*
+> *Distilling the Book of Books (Liber Librorum): Where psychology and biology meet tech entrepreneurship.*
 
 A curated, no-fluff distillation of the most impactful books across psychology, entrepreneurship, biology, communication, and general knowledge — written by a builder, for builders.
 
