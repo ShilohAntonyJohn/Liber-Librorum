@@ -92,7 +92,7 @@ From Russian culture to Israeli startup DNA to the hidden patterns in everyday b
 - Developers who want to build companies, not just code
 - Founders looking for mental models that actually work
 - Anyone who reads obsessively but wants a smarter way to retain what they've learned
-- People who think knowledge from biology and psychology shouldn't be siloed from entrepreneurship
+- Human beings trying to improve their life
 
 ---
 
