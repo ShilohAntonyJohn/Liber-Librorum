@@ -15,6 +15,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Use commitment devices to do stuff
     * Stack habits to form them(Habit stacking)
     * Track progress, forgive a day or 2
+    * Hairdressers can tell if a woman is pregnant before she knows it because the human brain is an incredible pattern recognition machine
 ## Surrounded by Idiots by Thomas Erikson:
     * Most people are green and least amount of people are red
     * Red:
