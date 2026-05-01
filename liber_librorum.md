@@ -38,7 +38,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
 * [Genome by Matt Ridley](#genome-by-matt-ridley)
 * [The Death of Death by José Luis Cordeiro and David Wood](#the-death-of-death-by-josé-luis-cordeiro-and-david-wood)
 * [The Brain Book by Phil Dobson](#the-brain-book-by-phil-dobson)
-* [You are not Your Brain by Jeffrey M. Schwartz, M.D. and Rebecca Gladding MD // This book is also self help](##you-are-not-your-brain-by-jeffrey-m-schwartz-md-and-rebecca-gladding-md--this-book-is-also-self-help)
+* [You are not Your Brain by Jeffrey M. Schwartz, M.D. and Rebecca Gladding MD // This book is also self help](#you-are-not-your-brain-by-jeffrey-m-schwartz-md-and-rebecca-gladding-md--this-book-is-also-self-help)
 * **[Communication](#communication)**
 * [How to Talk to Anyone by Leil Lowndes](#how-to-talk-to-anyone-by-leil-lowndes)
 * [The Power of Persuasion by Rudy Nash](#the-power-of-persuasion-by-rudy-nash)
