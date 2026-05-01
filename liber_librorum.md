@@ -1,6 +1,6 @@
 # B.O.B
 # Book of Books
-## Introduction:
+## Introduction
 Written by Shiloh Antony John, concepts outside of books maybe included. I try to maintain maximum accuracy but the document may contain mistakes which I am not liable for. These are personal study notes intended for educational purposes and readers are heavily encouraged to buy original books.
 # Index
 * **[Psychology / Self help](#psychology--self-help)**
@@ -45,17 +45,17 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
 * [Public speaking tips (not a book)](#public-speaking-tips-not-a-book)
 # Psychology / Self help
 ## Atomic Habits by James Clear:
-    * Cue - To break habit, remove cue
-    * Process - To break habit, make process difficult
+    * Cue - To break a habit, remove cue
+    * Process - To break a habit, make process difficult
     * Reward - Reduce reward to break habit
     * Repetition
-    * Reverse everything to build a habit. Similar concept in Hooked by Nir Eyal
+    * Reverse everything to build a habit. Similar concept is in Hooked by Nir Eyal
     * Improve something 1% at a time
     * Build systems
-    * Change environment to build/break habit
+    * Change environment to build/break habits
     * Use commitment devices to do stuff
-    * Stack habits to form them(Habit stacking)
-    * Track progress, forgive a day or 2
+    * Stack habits to form them (Habit stacking)
+    * Track progress, forgive a day or 2 if you miss
     * Hairdressers can tell if a woman is pregnant before she knows it because the human brain is an incredible pattern recognition machine
 ## Surrounded by Idiots by Thomas Erikson:
     * Most people are green and least amount of people are red
@@ -63,7 +63,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
         * Ambitious
         * Entrepreneur/leadership style
         * Gets angry quickly
-        * Most likely to think surrounded by idiots
+        * Most likely to think that they are surrounded by idiots
     * Blue:
         * Analytical
         * Calculated
@@ -81,52 +81,52 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
         * Lazy
         * Wants time off / not ambitious
 ## Think again by Adam Grant:
-    * What you know maybe wrong, think again
+    * What you know may be wrong, think again
     * High IQ people are more biased because they can recognize patterns supporting their ideology but cant see patterns refuting their ideology
     * Dont trust anyone including authority or famous people
-    * Debate should be open minded. Eg: I am wrong or you are wrong or both of us are wrong.
+    * Debate should be open minded. Eg: Either I am wrong or you are wrong or both of us are wrong.
     * Use interrogative debate to make people think
     * Question everything
     * When debating target their strong points
-    * Use strong points only, strong points > strong points + weak points
+    * Use strong points only, strong points > (strong points + weak points)
 ## Unthink by Chris Paley:
     * Red makes people look more sexy
-    * Brain doesn’t know difference between fear and lust
+    * The human brain doesn’t know difference between fear and lust
     * Warm climate and warm drinks make people warmer
     * Curved utensils are better for better reception
     * There is no free will
 ## Mindset by Dr. Carol S. Dweck:
-    * Intelligence isnt fixed, have growth instead of fixed minset
-    * Ppl can learn to do anything including drawing
+    * Intelligence isn't fixed, have growth instead of fixed minset
+    * People can learn to do anything including drawing for those who are bad at it
 ## Dont sweat the small stuff by Richard Carlson:
     * Dont think about something you don’t want to think about as it will snowball
     * Ignore small offenses against you
 ## The get things done book by Mikael Krogerus and Roman Tschäppeler:
-    * Collect mental models, for eg(this was Napoleon's mental model):
+    * Collect mental models, for eg (this was Napoleon's mental model used in battle for injured soldiers):
         * will he survive with medicine
         * will he die despite medicine
         * will he survive without medicine
-    * Book of Books
+    * Book of Books (A compilation of books you read so you don't forget)
     * Radical honesty is necessary
     * Celebrate small wins
     * Ask 5 whys
-    * Better to say thank you than sorry. Eg: Thank for waiting instead of sorry for being late
-    * Deliver good news then bad news
+    * Its better to say thank you than sorry. Eg: Thank you for waiting instead of sorry for being late
+    * Deliver good news and then bad news
 ## Art of Creative Thinking:
-    * Think what happens if it was this way instead. Eg: what if movie was backwards
+    * Think what happens if it was another way instead. Eg: what if movie was backwards
     * Get inspired by nature
     * Dramatic representation
-    * Dont listen to loved ones at times. Someone got Nobel Prize for drinking Pylori Gut Bacteria and curing himself with antibiotics
+    * Don't listen to loved ones always. Someone got Nobel Prize for drinking Pylori Gut Bacteria and curing himself with antibiotics
     * Focus
 ## Proverbs by King Solomon:
-    * Fear of God is beginning of wisdom
+    * Fear of God is the beginning of wisdom
     * Lead a Christian life
-    * Dont do anything against God
+    * Don't do anything against God
     * Marry a God fearing non nagging woman
     * Dont talk with fools
 ## 48 Laws of Power by Robert Greene:
     * Stay neutral
-    * Talk about why its better for them this way instead of relying on mercy
+    * Talk about why its better for them your way instead of relying on mercy
 ## In Sheep’s Clothing by George Simon:
     * Manipulators do these:
         * Gaslight
@@ -135,17 +135,17 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
         * Minimize
         * Divert
         * Evade
-    * Trust Gut feeling when you are feeling something suspicious
+    * Trust your gut feeling when you are feeling something suspicious
     * They don’t like boundaries and saying no
     * Psychopaths rush relationships
 ## Lean In by Sheryl Sandberg:
     * Parking for pregnant women
     * Men should do 50% of housework
-    * Women should get rid of -ve stereotypes for empowerment
+    * Women should get rid of negative stereotypes for empowerment
 ## Games People Play by Eric Berne:
     * If it weren’t for you: people choose restrictive partners and say if it weren’t for you
     * Try and Get Away with It: people will do something bad will try and get away with it and when they are caught, frame you even when they are wrong
-    * See what you made me do: person gets angry and says see what you made me do do shut you up
+    * See what you made me do: person gets angry and says see what you made me do to shut you up
     * Corner: people corner you so whatever you say, they win
     * Sweetheart: partner says dear or sweetheart and the end to appear good in front of others even when the statement contains a complaint
     * Aint it awful: people bring things upon themselves to exploit sympathy of others
@@ -161,45 +161,45 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
         * Cities are identical
         * Russian weddings are long and unique
         * Old people play on swings
-    * You can figure out who is the nexus of the family by knowing who placed the 1st fridge magnet
+    * You can figure out who is the nexus of the family by knowing who placed the first fridge magnet
 ## Startup Nation by Dan Senor and Saul Singer:
     * Chutzpah -  Bold, non hierarchical structure with brutal honesty
     * Failure is a badge of honor
     * Russian is the 3rd most spoken language in Israel. People speak many languages in Israel
     * Israeli military has close connection with civilian tech and startups
-    * Jews were 2% of USSR but 30% of lawyers, documentation and engineers
+    * Jews were 2% of USSR population but 30% of lawyers, doctors and engineers
 # Entrepreneurship
 ## Business etiquette by Shital Kakkar Mehra:
     * Dress normal
     * BREAD - Bread on left, Drink on right
-    * Study culture of place and act accordingly
+    * Study culture of the place and act accordingly
     * Dont talk politics and religion as they ignite passion
 ## 0 to 1 by  Peter Thiel with Blake Masters:
-    * Monopolies claim to be small and small companies big, Monopolies do this to avoid break up
-    * There are 4 essential things to go big:
+    * Monopolies claim to be small and small companies claim to be big, Monopolies do this to avoid breaking up
+    * There are 4 essential things to build a large company:
         * Patented tech of something thats 10x better that what exists or some breakthrough like cure for cancer
         * Economies of scale
         * Network effect
         * Brand identity
-    * 20% of something controls 80% of other thing
-    * Know business partner well
-    * Marketing is equally as important as prod
+    * 20% of something controls 80% of the other thing
+    * Know business partner/partners well
+    * Marketing is equally as important as production
 ## Hard things about Hard things by Ben Horowitz:
-    * Business is gonna be hard at start
-    * Sometimes you gotta lock in and fix instead of looking for Golden bullet
+    * Business is going to be hard at start
+    * Sometimes you have to lock in and fix instead of looking for a golden bullet
     * Business culture is of supreme importance
     * Hire only passionate people
-    * Respect peoples time
+    * Respect people's time
     * Work hard
-    * If everyone tells you that are wrong(literaly EVERYONE) but you are 51% sure you are right, do what you are sure about
+    * If everyone tells you that are wrong (literaly EVERYONE), but you are 51% sure you are right, do what you are 51% sure about
     * To scale, hire people who have scaled companies before 
     * Hire talented people 
 ## Beyond Entrepreneurship by Jim Collins and William C. Lazier:
     * Do good to humanity
-    * There should be Values and they should be strictly enforced
+    * Companies should have values and they should be strictly enforced
     * Purpose of company should guide mission
     * Mission should be hard but accomplishable within time frame set
-    * There should be constitution for company
+    * There should be a constitution for your company
     * Give high salary to high achieving people who don’t want managerial roles
     * There should be raises, prizes, promotions to boost employee morale
     * Be honest
@@ -229,22 +229,22 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
         * Dependencies
         * Secret sauce
     * TITAN(Three is the Awesomest Number). Eg: Ask for three wishes at end
-    * Engage will all 5 senses during pitch and sales
-    * Ppl have cognitive dissonance
-    * Dont talk people whom you pitched to on the way home
     * Use 3 everywhere
+    * Engage will all 5 senses during pitch and sales
+    * People have cognitive dissonance
+    * Don't talk about people whom you pitched to on the way home
     * Be vulnerable to be seen as human
-    * Use Gen AI whenever possible
+    * Use Generative AI whenever possible
 ## Hooked by Nir Eyal: // Product Design
-    * Cue(Intrinsic/Extrinsic) → Process(very easy[less brain cycles, socially acceptable, least cost, least physical and emotional effort, normal]) → Reward(Variable[Badges/trophy, community, satisfaction from self achievement])→Investment(people overestimate their effort like they like Ikea products)
+    * Cue(Intrinsic/Extrinsic) → Process(very easy[less brain cycles, socially acceptable, least cost, least physical and emotional effort, normal]) → Reward(Variable[Badges/trophy, community, satisfaction from self achievement])→Investment(people overestimate their effort like why they like Ikea products)
     * -ve emotions are more powerful for intrinsic motivation
     * Say “if you don’t mind” to make people do things for you
 ## Rework by Jason Fried and David Heinemeier Hansson:
-    * Be careful with taking other peoples money
-    * You can start small(do things yourself)
-    * Sell by products
+    * Be careful while taking other people's money
+    * You can start small (do things yourself)
+    * Sell by-products
     * Hire drop outs
-    * Hire talent from anywhere(adjust time zone)
+    * Hire talent from anywhere (irrespective of time zone)
     * Test drive employees
     * Apologize profoundly when you screw up
 ## The 1 thing by Garry Keller and Jay Papasan:
@@ -260,14 +260,14 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
 ## DOSE by Tj Power:
     * Dopamine:
         * Avoid cheap dopamine
-        * Sleep well, eat good food(Low GL Index, sweet potato is good)
+        * Sleep well, eat good food (Low glycemic Index, sweet potato is good)
         * Do hard stuff
         * Sunlight
     * Oxytocin:
         * Touch people more
         * Hug 5 times a day for more that 3-5s
         * Do things together
-        * Continuously love spouse(rationally)
+        * Continuously love spouse (rationally)
         * Have more sex if possible
     * Serotonin:
         * 90% of serotonin in produced in the gut
@@ -275,6 +275,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
         * Anti aging
         * Help others for serotonin
     * Endorphins:
+	* Body's natural pain killer
         * Exercise
 ## Genome by Matt Ridley:
     * X and Y chromosomes are always in conflict
@@ -286,7 +287,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Anti aging is possible
     * Cryogenic freezing and reviving has been done on rats and is possible
 ## The Brain Book by Phil Dobson:
-    * Eat healthy food(low GL Index)
+    * Eat healthy food (low glycemic Index)
     * Have good sleep and exercise
     * Meditate and be hyper focused on it for immunity
     * To learn things, tell your brain, you need to learn and visualize while making connections to the thing you are learning
@@ -294,7 +295,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Stroke can be cured with neuroplasticity, neuroplasticity can do anything
     * To remove a habit follow below steps:
     * Label
-        * A disruptive brain msg is anything that is irrational hogging you down, so 1st you have to identify it
+        * A disruptive brain message is anything that is irrational hogging you down, so first you have to identify it
     * Reframe
         * Tell you brain why is affects you and what it is:
         * Its just neurons firing or just society, don’t care about it
@@ -309,8 +310,8 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Parrot – Repeat last sentence or phrase a person said
     * News – Read news to talk to people about something
     * Learn a bit about everything to maintain conversation about even if there is no common interest
-    * Call people their names for them to do what you want them to do
-    * When you commit a mistake, repay them to the point they appreciate that you make the mistake
+    * Call people their by names for them to do what you want them to do
+    * When you commit a mistake, repay them to the point where they appreciate that you made the mistake
     * If someone owes you something, don’t take the favor immediately
     * Don’t talk bad things to people during parties
     * Talk their language, if there is something secret that only they or organization knows, use it
@@ -328,7 +329,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * To grab attention, you can start your speech with a question, a story, both or an activity. For people to easily follow you speech, number your points. Conclude with "Thank you", call to action and moral 
     * Because of visualization ability of the human brain, story telling is essential for world class communication. Start by introducing characters, set environment and introduce challenge. Then move on to who won/lost and why that happened and close off with moral
     * Speak passionately
-    * Maintain body posture, stand straight, down tuck in shirt, don't fire at people asking questions even if the questions are stupid and don't make fun of prevoius/next speaker
+    * Maintain body posture, stand straight, don't fire at people asking questions even if the questions are stupid and don't make fun of prevoius/next speaker
     * Research your material thoroughly
     * Arrive extremely early at place where you give your speech to make sure everything works and familiarize yourself
     * Give data and statistics during a speech
