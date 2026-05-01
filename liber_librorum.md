@@ -2,7 +2,48 @@
 # Book of Books
 ## Introduction:
 Written by Shiloh Antony John, concepts outside of books maybe included. I try to maintain maximum accuracy but the document may contain mistakes which I am not liable for. These are personal study notes intended for educational purposes and readers are heavily encouraged to buy original books.
-# Psychology / Self help:
+# Index
+* **[Psychology / Self help](#psychology--self-help)**
+* [Atomic Habits by James Clear](#atomic-habits-by-james-clear)
+* [Surrounded by Idiots by Thomas Erikson](#surrounded-by-idiots-by-thomas-erikson)
+* [Think again by Adam Grant](#think-again-by-adam-grant)
+* [Unthink by Chris Paley](#unthink-by-chris-paley)
+* [Mindset by Dr. Carol S. Dweck](#mindset-by-dr-carol-s-dweck)
+* [Dont sweat the small stuff by Richard Carlson](#dont-sweat-the-small-stuff-by-richard-carlson)
+* [The get things done book by Mikael Krogerus and Roman Tschäppeler](#the-get-things-done-book-by-mikael-krogerus-and-roman-tschäppeler)
+* [Art of Creative Thinking](#art-of-creative-thinking)
+* [Proverbs by King Solomon](#proverbs-by-king-solomon)
+* [48 Laws of Power by Robert Greene](#48-laws-of-power-by-robert-greene)
+* [In Sheep’s Clothing by George Simon](#in-sheeps-clothing-by-george-simon)
+* [Lean In by Sheryl Sandberg](#lean-in-by-sheryl-sandberg)
+* [Games People Play by Eric Berne](#games-people-play-by-eric-berne)
+* [The Courage to be Disliked by Ichiro Kishimi and Fumitake Koga](#the-courage-to-be-disliked-by-ichiro-kishimi-and-fumitake-koga)
+* **[GK](#gk)**
+* [Small Data by Martin Lindstrom](#small-data-by-martin-lindstrom)
+* [Startup Nation by Dan Senor and Saul Singer](#startup-nation-by-dan-senor-and-saul-singer)
+* **[Entrepreneurship](#entrepreneurship)**
+* [Business etiquette by Shital Kakkar Mehra](#business-etiquette-by-shital-kakkar-mehra)
+* [0 to 1 by  Peter Thiel with Blake Masters](#0-to-1-by-peter-thiel-with-blake-masters)
+* [Hard things about Hard things by Ben Horowitz](#hard-things-about-hard-things-by-ben-horowitz)
+* [Beyond Entrepreneurship by Jim Collins and William C. Lazier](#beyond-entrepreneurship-by-jim-collins-and-william-c-lazier)
+* [Leapfrog by Mukesh Sud and Priyank Narayan](#leapfrog-by-mukesh-sud-and-priyank-narayan)
+* [The Almanack of Naval Ravikanth by Eric Jorgenson](#the-almanack-of-naval-ravikanth-by-eric-jorgenson)
+* [Pitch by Danny Fontaine](#pitch-by-danny-fontaine)
+* [Hooked by Nir Eyal // Product Design](#hooked-by-nir-eyal--product-design)
+* [Rework by Jason Fried and David Heinemeier Hansson](#rework-by-jason-fried-and-david-heinemeier-hansson)
+* [The 1 thing by Garry Keller and Jay Papasan](#the-1-thing-by-garry-keller-and-jay-papasan)
+* [Build by Tony Fadel](#build-by-tony-fadell)
+* **[Brain / Biology](#brain--biology)**
+* [DOSE by Tj Power](#dose-by-tj-power)
+* [Genome by Matt Ridley](#genome-by-matt-ridley)
+* [The Death of Death by José Luis Cordeiro and David Wood](#the-death-of-death-by-josé-luis-cordeiro-and-david-wood)
+* [The Brain Book by Phil Dobson](#the-brain-book-by-phil-dobson)
+* [You are not Your Brain by Jeffrey M. Schwartz, M.D. and Rebecca Gladding MD // This book is also self help](#you-are-not-your-brain-by-jeffrey-m-schwartz-md-and-rebecca-gladding-md-this-book-is-also-self-help)
+* **[Communication](#communication)**
+* [How to Talk to Anyone by Leil Lowndes](#how-to-talk-to-anyone-by-leil-lowndes)
+* [The Power of Persuasion by Rudy Nash](#the-power-of-persuasion-by-rudy-nash)
+* [Public speaking tips (not a book)](#public-speaking-tips-not-a-book)
+# Psychology / Self help
 ## Atomic Habits by James Clear:
     * Cue - To break habit, remove cue
     * Process - To break habit, make process difficult
@@ -114,7 +155,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
 ## The Courage to be Disliked by Ichiro Kishimi and Fumitake Koga:
     * Physical apperance is subjective, so don't worry about it
     * Give without expectation of return
-# GK:
+# GK
 ## Small Data by Martin Lindstrom:
     * Russia
         * Cities are identical
@@ -127,7 +168,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Russian is the 3rd most spoken language in Israel. People speak many languages in Israel
     * Israeli military has close connection with civilian tech and startups
     * Jews were 2% of USSR but 30% of lawyers, documentation and engineers
-# Entrepreneurship:
+# Entrepreneurship
 ## Business etiquette by Shital Kakkar Mehra:
     * Dress normal
     * BREAD - Bread on left, Drink on right
@@ -215,7 +256,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Mergers should also be treated like marriage as its too easy to screw up due to culture differences, internal anti bodies, etc
     * There should be pain, thats how good it should be
     * Hire the best lawyers, a good lawyer should tell you loopholes to fix your problems.
-# Brain / Biology:
+# Brain / Biology
 ## DOSE by Tj Power:
     * Dopamine:
         * Avoid cheap dopamine
@@ -259,7 +300,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
         * Its just neurons firing or just society, don’t care about it
     * Refocus
     * Sometimes you have to re-evaluate
-# Communication:
+# Communication
 ## How to Talk to Anyone by Leil Lowndes:
     * When meeting someone, give a small delay when you smile especially if you are a woman as if a woman smiles immediately, they are seen as untrustworthy
     * Give a flooding smile after that
