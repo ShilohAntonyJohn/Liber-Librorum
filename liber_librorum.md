@@ -23,7 +23,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
 * [Startup Nation by Dan Senor and Saul Singer](#startup-nation-by-dan-senor-and-saul-singer)
 * **[Entrepreneurship](#entrepreneurship)**
 * [Business etiquette by Shital Kakkar Mehra](#business-etiquette-by-shital-kakkar-mehra)
-* [0 to 1 by  Peter Thiel with Blake Masters](#0-to-1-by-peter-thiel-with-blake-masters)
+* [0 to 1 by  Peter Thiel with Blake Masters](#0-to-1-by--peter-thiel-with-blake-masters)
 * [Hard things about Hard things by Ben Horowitz](#hard-things-about-hard-things-by-ben-horowitz)
 * [Beyond Entrepreneurship by Jim Collins and William C. Lazier](#beyond-entrepreneurship-by-jim-collins-and-william-c-lazier)
 * [Leapfrog by Mukesh Sud and Priyank Narayan](#leapfrog-by-mukesh-sud-and-priyank-narayan)
@@ -38,7 +38,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
 * [Genome by Matt Ridley](#genome-by-matt-ridley)
 * [The Death of Death by José Luis Cordeiro and David Wood](#the-death-of-death-by-josé-luis-cordeiro-and-david-wood)
 * [The Brain Book by Phil Dobson](#the-brain-book-by-phil-dobson)
-* [You are not Your Brain by Jeffrey M. Schwartz, M.D. and Rebecca Gladding MD // This book is also self help](#you-are-not-your-brain-by-jeffrey-m-schwartz-md-and-rebecca-gladding-md-this-book-is-also-self-help)
+* [You are not Your Brain by Jeffrey M. Schwartz, M.D. and Rebecca Gladding MD // This book is also self help](##you-are-not-your-brain-by-jeffrey-m-schwartz-md-and-rebecca-gladding-md--this-book-is-also-self-help)
 * **[Communication](#communication)**
 * [How to Talk to Anyone by Leil Lowndes](#how-to-talk-to-anyone-by-leil-lowndes)
 * [The Power of Persuasion by Rudy Nash](#the-power-of-persuasion-by-rudy-nash)
