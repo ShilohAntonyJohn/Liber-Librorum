@@ -42,7 +42,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
 * **[Communication](#communication)**
 * [How to Talk to Anyone by Leil Lowndes](#how-to-talk-to-anyone-by-leil-lowndes)
 * [The Power of Persuasion by Rudy Nash](#the-power-of-persuasion-by-rudy-nash)
-* [Never Split the Difference by Chris Voss](#never-spit-the-difference-by-chris-voss)
+* [Never Split the Difference by Chris Voss](#never-split-the-difference-by-chris-voss)
 * [Public speaking tips (not a book)](#public-speaking-tips-not-a-book)
 # Psychology / Self help
 ## Atomic Habits by James Clear:
