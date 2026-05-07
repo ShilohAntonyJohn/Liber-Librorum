@@ -42,6 +42,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
 * **[Communication](#communication)**
 * [How to Talk to Anyone by Leil Lowndes](#how-to-talk-to-anyone-by-leil-lowndes)
 * [The Power of Persuasion by Rudy Nash](#the-power-of-persuasion-by-rudy-nash)
+* [Never Split the Difference by Chris Voss](#never-spit-the-difference-by-chris-voss)
 * [Public speaking tips (not a book)](#public-speaking-tips-not-a-book)
 # Psychology / Self help
 ## Atomic Habits by James Clear:
@@ -323,6 +324,16 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Hammering(repetition)
     * Your goal should overlap with their goal
     * Sell an emotion
+## Never Split the Difference by Chris Voss:
+    * Start with a calm voice, then start your statement with "I'm sorry" and repeat the last few words the other person said
+    * Always think why the other person is talking the way they are and what they are talking about
+    * Openly acknowledge the other person's emotion, pause (where they talk) and present a solution to fix their emotion
+    * Ask questions where they respond with no to give them a sense of control so they finally say yes
+    * Use deadlines and time as your weapon in negotiation
+    * Let the other person start off with a price instead of you starting
+    * Use an extreme anchor: Give a prize crazy high/low to negotiate effectively
+    * Use price ranges so you get a deal at the lower end of your range
+    * Humans are loss averse, use that to negotiate 
 ## Public speaking tips (not a book):
     * Varoius methods can be used for public speaking, use a suitable one
     * Start your speech, marketing campaign, etc with "why?" and then move on to "how?" and then "what?"
