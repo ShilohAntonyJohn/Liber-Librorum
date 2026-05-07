@@ -114,7 +114,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Its better to say thank you than sorry. Eg: Thank you for waiting instead of sorry for being late
     * Deliver good news and then bad news
 ## Art of Creative Thinking:
-    * Think what happens if it was another way instead. Eg: what if movie was backwards
+    * Think what happens if it was another way instead. Eg: What if the movie was backwards
     * Get inspired by nature
     * Dramatic representation
     * Don't listen to loved ones always. Someone got Nobel Prize for drinking Pylori Gut Bacteria and curing himself with antibiotics
@@ -144,14 +144,14 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Men should do 50% of housework
     * Women should get rid of negative stereotypes for empowerment
 ## Games People Play by Eric Berne:
-    * If it weren’t for you: people choose restrictive partners and say if it weren’t for you
-    * Try and Get Away with It: people will do something bad will try and get away with it and when they are caught, frame you even when they are wrong
-    * See what you made me do: person gets angry and says see what you made me do to shut you up
-    * Corner: people corner you so whatever you say, they win
-    * Sweetheart: partner says dear or sweetheart and the end to appear good in front of others even when the statement contains a complaint
-    * Aint it awful: people bring things upon themselves to exploit sympathy of others
-    * Why Dont You, Yes But: people complain and find problems with every solution because they don’t want to solve the issue
-    * Look How Hard I Tried: people say this to get gains from others by telling them they tried hard
+    * If it weren’t for you: People choose restrictive partners and say if it weren’t for you
+    * Try and Get Away with It: People will do something bad will try and get away with it and when they are caught, frame you even when they are wrong
+    * See what you made me do: Person gets angry and says see what you made me do to shut you up
+    * Corner: People corner you so whatever you say, they win
+    * Sweetheart: Partner says dear or sweetheart and the end to appear good in front of others even when the statement contains a complaint
+    * Aint it awful: People bring things upon themselves to exploit sympathy of others
+    * Why Dont You, Yes But: People complain and find problems with every solution because they don’t want to solve the issue
+    * Look How Hard I Tried: People say this to get gains from others by telling them they tried hard
     * Some people are afraid of intimacy so they play games, honesty is required for this
 ## The Courage to be Disliked by Ichiro Kishimi and Fumitake Koga:
     * Physical apperance is subjective, so don't worry about it
@@ -321,7 +321,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Communication should be about them
     * Instead of saying just Thank You say Thank You for the particular thing
 ## The Power of Persuasion by Rudy Nash:
-    * Hammering(repetition)
+    * Hammering (repetition)
     * Your goal should overlap with their goal
     * Sell an emotion
 ## Never Split the Difference by Chris Voss:
