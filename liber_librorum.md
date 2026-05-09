@@ -185,7 +185,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * 20% of something controls 80% of the other thing
     * Know business partner/partners well
     * Marketing is equally as important as production
-	* Most people don't start as they think someone else solved the problem or they are afraid they won't find the solution
+	* Most people don't start as they think someone else solved the problem or they're afraid they won't find the solution
 ## Hard things about Hard things by Ben Horowitz:
     * Business is going to be hard at start
     * Sometimes you have to lock in and fix instead of looking for a golden bullet
