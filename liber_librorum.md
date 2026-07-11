@@ -9,7 +9,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
 * [Think again by Adam Grant](#think-again-by-adam-grant)
 * [Unthink by Chris Paley](#unthink-by-chris-paley)
 * [Mindset by Dr. Carol S. Dweck](#mindset-by-dr-carol-s-dweck)
-* [Don't sweat the small stuff by Richard Carlson](#Don't-sweat-the-small-stuff-by-richard-carlson)
+* [Dont sweat the small stuff by Richard Carlson](#Dont-sweat-the-small-stuff-by-richard-carlson)
 * [The get things done book by Mikael Krogerus and Roman Tschäppeler](#the-get-things-done-book-by-mikael-krogerus-and-roman-tschäppeler)
 * [Art of Creative Thinking](#art-of-creative-thinking)
 * [Proverbs by King Solomon](#proverbs-by-king-solomon)
@@ -99,7 +99,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
 ## Mindset by Dr. Carol S. Dweck:
     * Intelligence isn't fixed, have growth instead of fixed minset
     * People can learn to do anything including drawing for those who are bad at it
-## Don't sweat the small stuff by Richard Carlson:
+## Dont sweat the small stuff by Richard Carlson:
     * Don't think about something you don’t want to think about as it will snowball
     * Ignore small offenses against you
 ## The get things done book by Mikael Krogerus and Roman Tschäppeler:
@@ -269,7 +269,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
         * Sunlight
     * Oxytocin:
         * Touch people more
-        * Hug 5 times a day for more that 3-5s
+        * Hug 5 times a day for more than 3-5s
         * Do things together
         * Continuously love spouse (rationally)
         * Have more sex if possible
@@ -283,7 +283,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
         * Exercise
 ## Genome by Matt Ridley:
     * X and Y chromosomes are always in conflict
-    * Humans evolved to be monogamic
+    * Humans evolved to be monogamous
     * Cortisol and testosterone suppress immune system
     * All DNA is one
 ## The Death of Death by José Luis Cordeiro and David Wood:
@@ -338,17 +338,17 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
     * Use price ranges so you get a deal at the lower end of your range
     * Humans are loss averse, use that to negotiate 
 ## Public speaking tips (not a book):
-    * Varoius methods can be used for public speaking, use a suitable one
+    * Various methods can be used for public speaking, use a suitable one
     * Start your speech, marketing campaign, etc with "why?" and then move on to "how?" and then "what?"
-    * To grab attention, you can start your speech with a question, a story, both or an activity. For people to easily follow you speech, number your points. Conclude with "Thank you", call to action and moral 
+    * To grab attention, you can start your speech with a question, a story, both or an activity. For people to easily follow your speech, number your points. Conclude with "Thank you", call to action and moral 
     * Because of visualization ability of the human brain, story telling is essential for world class communication. Start by introducing characters, set environment and introduce challenge. Then move on to who won/lost and why that happened and close off with moral
     * Speak passionately
-    * Maintain body posture, stand straight, don't fire at people asking questions even if the questions are stupid and don't make fun of prevoius/next speaker
+    * Maintain body posture, stand straight, don't fire at people asking questions even if the questions are stupid and don't make fun of previous/next speaker
     * Research your material thoroughly
     * Arrive extremely early at place where you give your speech to make sure everything works and familiarize yourself
     * Give data and statistics during a speech
     * Don't just look at one person
-    * Rehearse your speech multiple times as your rational brain shuts down in such a high stress situation
+    * Rehearse your speech multiple times as your rational brain shuts down in such a high-stress situation
     * Exercise on the day of the speech to build endorphins
     * Visualize success 
     * Tell yourself 3,2,1,go right before giving the speech to get into the zone
