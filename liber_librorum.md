@@ -9,7 +9,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
 * [Think again by Adam Grant](#think-again-by-adam-grant)
 * [Unthink by Chris Paley](#unthink-by-chris-paley)
 * [Mindset by Dr. Carol S. Dweck](#mindset-by-dr-carol-s-dweck)
-* [Dont sweat the small stuff by Richard Carlson](#dont-sweat-the-small-stuff-by-richard-carlson)
+* [Don't sweat the small stuff by Richard Carlson](#Don't-sweat-the-small-stuff-by-richard-carlson)
 * [The get things done book by Mikael Krogerus and Roman Tschäppeler](#the-get-things-done-book-by-mikael-krogerus-and-roman-tschäppeler)
 * [Art of Creative Thinking](#art-of-creative-thinking)
 * [Proverbs by King Solomon](#proverbs-by-king-solomon)
@@ -84,7 +84,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
 ## Think again by Adam Grant:
     * What you know may be wrong, think again
     * High IQ people are more biased because they can recognize patterns supporting their ideology but can't see patterns refuting their ideology
-    * Dont trust anyone including authority or famous people
+    * Don't trust anyone including authority or famous people
     * Debate should be open minded. Eg: Either I am wrong or you are wrong or both of us are wrong.
     * Use interrogative debate to make people think
     * Question everything
@@ -99,8 +99,8 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
 ## Mindset by Dr. Carol S. Dweck:
     * Intelligence isn't fixed, have growth instead of fixed minset
     * People can learn to do anything including drawing for those who are bad at it
-## Dont sweat the small stuff by Richard Carlson:
-    * Dont think about something you don’t want to think about as it will snowball
+## Don't sweat the small stuff by Richard Carlson:
+    * Don't think about something you don’t want to think about as it will snowball
     * Ignore small offenses against you
 ## The get things done book by Mikael Krogerus and Roman Tschäppeler:
     * Collect mental models, for eg (this was Napoleon's mental model used in battle for injured soldiers):
@@ -111,23 +111,23 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
     * Radical honesty is necessary
     * Celebrate small wins
     * Ask 5 whys
-    * Its better to say thank you than sorry. Eg: Thank you for waiting instead of sorry for being late
+    * It's better to say thank you than sorry. Eg: Thank you for waiting instead of sorry for being late
     * Deliver good news and then bad news
 ## Art of Creative Thinking:
     * Think what happens if it was another way instead. Eg: What if the movie was backwards
     * Get inspired by nature
     * Dramatic representation
-    * Don't listen to loved ones always. Someone got Nobel Prize for drinking Pylori Gut Bacteria and curing himself with antibiotics
+    * Don't listen to loved ones always. Someone got a Nobel Prize for drinking Pylori Gut Bacteria and curing himself with antibiotics
     * Focus
 ## Proverbs by King Solomon:
     * Fear of God is the beginning of wisdom
     * Lead a Christian life
     * Don't do anything against God
     * Marry a God fearing non nagging woman
-    * Dont talk with fools
+    * Don't talk with fools
 ## 48 Laws of Power by Robert Greene:
     * Stay neutral
-    * Talk about why its better for them your way instead of relying on mercy
+    * Talk about why it's better for them your way instead of relying on mercy
 ## In Sheep’s Clothing by George Simon:
     * Manipulators do these:
         * Gaslight
@@ -150,11 +150,11 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
     * Corner: People corner you so whatever you say, they win
     * Sweetheart: Partner says dear or sweetheart and the end to appear good in front of others even when the statement contains a complaint
     * Aint it awful: People bring things upon themselves to exploit sympathy of others
-    * Why Dont You, Yes But: People complain and find problems with every solution because they don’t want to solve the issue
+    * Why Don't You, Yes But: People complain and find problems with every solution because they don’t want to solve the issue
     * Look How Hard I Tried: People say this to get gains from others by telling them they tried hard
     * Some people are afraid of intimacy so they play games, honesty is required for this
 ## The Courage to be Disliked by Ichiro Kishimi and Fumitake Koga:
-    * Physical apperance is subjective, so don't worry about it
+    * Physical appearance is subjective, so don't worry about it
     * Give without expectation of return
 # GK
 ## Small Data by Martin Lindstrom:
@@ -174,7 +174,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
     * Dress normal
     * BREAD - Bread on left, Drink on right
     * Study culture of the place and act accordingly
-    * Dont talk politics and religion as they ignite passion
+    * Don't talk politics and religion as they ignite passion
 ## 0 to 1 by  Peter Thiel with Blake Masters:
     * Monopolies claim to be small and small companies claim to be big, Monopolies do this to avoid breaking up
     * There are 4 essential things to build a large company:
@@ -195,7 +195,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
     * Hire only passionate people
     * Respect people's time
     * Work hard
-    * If everyone tells you that are wrong (literally EVERYONE), but you are 51% sure you are right, do what you are 51% sure about
+    * If everyone tells you that you are wrong (literally EVERYONE), but you are 51% sure you are right, do what you are 51% sure about
     * To scale, hire people who have scaled companies before 
     * Hire talented people 
 ## Beyond Entrepreneurship by Jim Collins and William C. Lazier:
@@ -234,14 +234,14 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
         * Secret sauce
     * TITAN(Three is the Awesomest Number). Eg: Ask for three wishes at end
     * Use 3 everywhere
-    * Engage will all 5 senses during pitch and sales
+    * Engage with all 5 senses during pitch and sales
     * People have cognitive dissonance
     * Don't talk about people whom you pitched to on the way home
     * Be vulnerable to be seen as human
     * Use Generative AI whenever possible
 ## Hooked by Nir Eyal: // Product Design
     * Cue(Intrinsic/Extrinsic) → Process(very easy[less brain cycles, socially acceptable, least cost, least physical and emotional effort, normal]) → Reward(Variable[Badges/trophy, community, satisfaction from self achievement])→Investment(people overestimate their effort like why they like Ikea products)
-    * -ve emotions are more powerful for intrinsic motivation
+    * Negative emotions are more powerful for intrinsic motivation
     * Say “if you don’t mind” to make people do things for you
 ## Rework by Jason Fried and David Heinemeier Hansson:
     * Be careful while taking other people's money
@@ -257,7 +257,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
     * Move unbelievably fast with unreasonable timelines
     * Getting VC funding is like marriage, treat it like one with same precautions, seriousness, etc
     * During times of crisis, over communicate
-    * Mergers should also be treated like marriage as its too easy to screw up due to culture differences, internal anti bodies, etc
+    * Mergers should also be treated like marriage as it's too easy to screw up due to culture differences, internal anti bodies, etc
     * There should be pain, thats how good it should be
     * Hire the best lawyers, a good lawyer should tell you loopholes to fix your problems.
 # Brain / Biology
@@ -302,7 +302,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
         * A disruptive brain message is anything that is irrational hogging you down, so first you have to identify it
     * Reframe
         * Tell you brain why is affects you and what it is:
-        * Its just neurons firing or just society, don’t care about it
+        * It's just neurons firing or just society, don’t care about it
     * Refocus
     * Sometimes you have to re-evaluate
 # Communication
