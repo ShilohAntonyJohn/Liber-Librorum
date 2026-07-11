@@ -31,7 +31,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
 * [Pitch by Danny Fontaine](#pitch-by-danny-fontaine)
 * [Hooked by Nir Eyal // Product Design](#hooked-by-nir-eyal--product-design)
 * [Rework by Jason Fried and David Heinemeier Hansson](#rework-by-jason-fried-and-david-heinemeier-hansson)
-* [The 1 thing by Garry Keller and Jay Papasan](#the-1-thing-by-garry-keller-and-jay-papasan)
+* [The 1 Thing by Gary Keller and Jay Papasan](#the-1-thing-by-Gary-keller-and-jay-papasan)
 * [Build by Tony Fadell](#build-by-tony-fadell)
 * **[Brain / Biology](#brain--biology)**
 * [DOSE by TJ Power](#dose-by-tj-power)
@@ -97,7 +97,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
     * Curved utensils are better for better reception
     * There is no free will
 ## Mindset by Dr. Carol S. Dweck:
-    * Intelligence isn't fixed, have growth instead of fixed minset
+    * Intelligence isn't fixed, have growth instead of fixed mindset
     * People can learn to do anything including drawing for those who are bad at it
 ## Dont sweat the small stuff by Richard Carlson:
     * Don't think about something you don’t want to think about as it will snowball
@@ -123,7 +123,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
     * Fear of God is the beginning of wisdom
     * Lead a Christian life
     * Don't do anything against God
-    * Marry a God fearing non nagging woman
+    * Marry a God fearing, non nagging woman
     * Don't talk with fools
 ## 48 Laws of Power by Robert Greene:
     * Stay neutral
@@ -149,7 +149,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
     * See what you made me do: Person gets angry and says see what you made me do to shut you up
     * Corner: People corner you so whatever you say, they win
     * Sweetheart: Partner says dear or sweetheart and the end to appear good in front of others even when the statement contains a complaint
-    * Aint it awful: People bring things upon themselves to exploit sympathy of others
+    * Ain't it awful: People bring things upon themselves to exploit sympathy of others
     * Why Don't You, Yes But: People complain and find problems with every solution because they don’t want to solve the issue
     * Look How Hard I Tried: People say this to get gains from others by telling them they tried hard
     * Some people are afraid of intimacy so they play games, honesty is required for this
@@ -178,7 +178,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
 ## 0 to 1 by  Peter Thiel with Blake Masters:
     * Monopolies claim to be small and small companies claim to be big, Monopolies do this to avoid breaking up
     * There are 4 essential things to build a large company:
-        * Patented tech of something thats 10x better that what exists or some breakthrough like cure for cancer
+        * Patented tech of something that's 10x better that what exists or some breakthrough like cure for cancer
         * Economies of scale
         * Network effect
         * Brand identity
@@ -209,7 +209,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
     * Be honest
     * Be obsessed with details 
     * Most important decisions should be taken via open minded debate 
-    * Give autonomy to employees if your business in innovative 
+    * Give autonomy to employees if your business is innovative 
 ## Leapfrog by Mukesh Sud and Priyank Narayan:
     * Push beyond comfort zone
     * Give people nudges. Eg: Messi vs Ronaldo trash can
@@ -251,14 +251,14 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
     * Hire talent from anywhere (irrespective of time zone)
     * Test drive employees
     * Apologize profoundly when you screw up
-## The 1 thing by Garry Keller and Jay Papasan:
+## The 1 Thing by Gary Keller and Jay Papasan:
     * Never multitask, you need focus
 ## Build by Tony Fadell:
     * Move unbelievably fast with unreasonable timelines
     * Getting VC funding is like marriage, treat it like one with same precautions, seriousness, etc
     * During times of crisis, over communicate
     * Mergers should also be treated like marriage as it's too easy to screw up due to culture differences, internal anti bodies, etc
-    * There should be pain, thats how good it should be
+    * There should be pain, that's how good it should be
     * Hire the best lawyers, a good lawyer should tell you loopholes to fix your problems.
 # Brain / Biology
 ## DOSE by TJ Power:
@@ -301,7 +301,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
     * Label
         * A disruptive brain message is anything that is irrational hogging you down, so first you have to identify it
     * Reframe
-        * Tell you brain why is affects you and what it is:
+        * Tell you brain why it affects you and what it is:
         * It's just neurons firing or just society, don’t care about it
     * Refocus
     * Sometimes you have to re-evaluate
@@ -309,7 +309,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
 ## How to Talk to Anyone by Leil Lowndes:
     * When meeting someone, give a small delay when you smile especially if you are a woman as if a woman smiles immediately, they are seen as untrustworthy
     * Give a flooding smile after that
-    * If communication is between male and female or female and female, maintain constant eye contact, for male to male communication, they find is slightly threatening
+    * If communication is between male and female or female and female, maintain constant eye contact, for male to male communication, they find it slightly threatening
     * Killer Compliment – Give a compliment that is specific to that person at the right time, don’t use this too often or you will be seen as manipulative
     * Parrot – Repeat last sentence or phrase a person said
     * News – Read news to talk to people about something
