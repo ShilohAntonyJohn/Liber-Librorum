@@ -220,7 +220,7 @@ Written by Shiloh Antony John, concepts outside of books may be included. I try 
     * Kids require love from mom
     * Work smart and loud
     * Think long term
-    * be wary of people who talk too much about their honesty and values
+    * Be wary of people who talk too much about their honesty and values
 ## Pitch by Danny Fontaine:
     * 30-60 mins
     * Cliffhanger - leave them hanging
