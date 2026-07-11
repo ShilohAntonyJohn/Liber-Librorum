@@ -334,7 +334,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Ask questions where they respond with no to give them a sense of control so they finally say yes
     * Use deadlines and time as your weapon in negotiation
     * Let the other person start off with a price instead of you starting
-    * Use an extreme anchor: Give a prize crazy high/low to negotiate effectively
+    * Use an extreme anchor: Give a price crazy high/low to negotiate effectively
     * Use price ranges so you get a deal at the lower end of your range
     * Humans are loss averse, use that to negotiate 
 ## Public speaking tips (not a book):
