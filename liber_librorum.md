@@ -1,7 +1,7 @@
 # B.O.B
 # Book of Books
 ## Introduction
-Written by Shiloh Antony John, concepts outside of books maybe included. I try to maintain maximum accuracy but the document may contain mistakes which I am not liable for. These are personal study notes intended for educational purposes and readers are heavily encouraged to buy original books.
+Written by Shiloh Antony John, concepts outside of books may be included. I try to maintain maximum accuracy but the document may contain mistakes which I am not liable for. These are personal study notes intended for educational purposes and readers are heavily encouraged to buy original books.
 # Index
 * **[Psychology / Self help](#psychology--self-help)**
 * [Atomic Habits by James Clear](#atomic-habits-by-james-clear)
@@ -27,14 +27,14 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
 * [Hard things about Hard things by Ben Horowitz](#hard-things-about-hard-things-by-ben-horowitz)
 * [Beyond Entrepreneurship by Jim Collins and William C. Lazier](#beyond-entrepreneurship-by-jim-collins-and-william-c-lazier)
 * [Leapfrog by Mukesh Sud and Priyank Narayan](#leapfrog-by-mukesh-sud-and-priyank-narayan)
-* [The Almanack of Naval Ravikanth by Eric Jorgenson](#the-almanack-of-naval-ravikanth-by-eric-jorgenson)
+* [The Almanack of Naval Ravikant by Eric Jorgenson](#the-almanack-of-naval-ravikant-by-eric-jorgenson)
 * [Pitch by Danny Fontaine](#pitch-by-danny-fontaine)
 * [Hooked by Nir Eyal // Product Design](#hooked-by-nir-eyal--product-design)
 * [Rework by Jason Fried and David Heinemeier Hansson](#rework-by-jason-fried-and-david-heinemeier-hansson)
 * [The 1 thing by Garry Keller and Jay Papasan](#the-1-thing-by-garry-keller-and-jay-papasan)
-* [Build by Tony Fadel](#build-by-tony-fadell)
+* [Build by Tony Fadell](#build-by-tony-fadell)
 * **[Brain / Biology](#brain--biology)**
-* [DOSE by Tj Power](#dose-by-tj-power)
+* [DOSE by TJ Power](#dose-by-tj-power)
 * [Genome by Matt Ridley](#genome-by-matt-ridley)
 * [The Death of Death by José Luis Cordeiro and David Wood](#the-death-of-death-by-josé-luis-cordeiro-and-david-wood)
 * [The Brain Book by Phil Dobson](#the-brain-book-by-phil-dobson)
@@ -83,7 +83,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
         * Wants time off / not ambitious
 ## Think again by Adam Grant:
     * What you know may be wrong, think again
-    * High IQ people are more biased because they can recognize patterns supporting their ideology but cant see patterns refuting their ideology
+    * High IQ people are more biased because they can recognize patterns supporting their ideology but can't see patterns refuting their ideology
     * Dont trust anyone including authority or famous people
     * Debate should be open minded. Eg: Either I am wrong or you are wrong or both of us are wrong.
     * Use interrogative debate to make people think
@@ -195,7 +195,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Hire only passionate people
     * Respect people's time
     * Work hard
-    * If everyone tells you that are wrong (literaly EVERYONE), but you are 51% sure you are right, do what you are 51% sure about
+    * If everyone tells you that are wrong (literally EVERYONE), but you are 51% sure you are right, do what you are 51% sure about
     * To scale, hire people who have scaled companies before 
     * Hire talented people 
 ## Beyond Entrepreneurship by Jim Collins and William C. Lazier:
@@ -215,12 +215,12 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Give people nudges. Eg: Messi vs Ronaldo trash can
     * Use such nudges to alter behaviour
     * Think critically
-## The Almanack of Naval Ravikanth by Eric Jorgenson:
+## The Almanack of Naval Ravikant by Eric Jorgenson:
     * Surround yourself with people who bring you up
     * Kids require love from mom
     * Work smart and loud
     * Think long term
-    * Be vary of people who talk too much about their honesty and values
+    * be wary of people who talk too much about their honesty and values
 ## Pitch by Danny Fontaine:
     * 30-60 mins
     * Cliffhanger - leave them hanging
@@ -261,7 +261,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * There should be pain, thats how good it should be
     * Hire the best lawyers, a good lawyer should tell you loopholes to fix your problems.
 # Brain / Biology
-## DOSE by Tj Power:
+## DOSE by TJ Power:
     * Dopamine:
         * Avoid cheap dopamine
         * Sleep well, eat good food (Low glycemic Index, sweet potato is good)
@@ -274,7 +274,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
         * Continuously love spouse (rationally)
         * Have more sex if possible
     * Serotonin:
-        * 90% of serotonin in produced in the gut
+        * 90% of serotonin is produced in the gut
         * Eat good food
         * Anti aging
         * Help others for serotonin
@@ -314,7 +314,7 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Parrot – Repeat last sentence or phrase a person said
     * News – Read news to talk to people about something
     * Learn a bit about everything to maintain conversation about even if there is no common interest
-    * Call people their by names for them to do what you want them to do
+    * Call people by their names for them to do what you want them to do
     * When you commit a mistake, repay them to the point where they appreciate that you made the mistake
     * If someone owes you something, don’t take the favor immediately
     * Don’t talk bad things to people during parties
